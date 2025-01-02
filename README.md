@@ -2,7 +2,8 @@
 In reflective learning, students write reflections which could possibly contain doubts. While there exists automated doubt identification models, there lacks utilization of LLMs for such tasks. <br><br>
 Majority voting of LLMs had been shown to be effective in identifying doubts within students' reflections. This repository provides a simple implementation of majority voting of multiple LLMs. <br><br>
 LangChain is used to abstract model calling, enabling seamless integration of models from many providers such as OpenAI, Anthropic, and more.
-
+<br><br>
+This is a simple implementation to demonstrate doubt identification using majority voting of LLMs. 
 # 🖼 Preview
 ![image](https://github.com/user-attachments/assets/3234bf2f-7d4d-4004-bcce-0ed9fde3731a)
 
