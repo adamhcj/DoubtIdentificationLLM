@@ -1,5 +1,5 @@
 # ❓ Doubt Identification using LLMs
-In reflective learning, students write reflections which could possibly contain doubts. While there exists automated doubt identification models, there exists utilization of LLMs for such tasks. <br><br>
+In reflective learning, students write reflections which could possibly contain doubts. While there exists automated doubt identification models, there lacks utilization of LLMs for such tasks. <br><br>
 Majority voting of LLMs had been shown to be effective in identifying doubts within students' reflections. This repository provides a simple implementation of majority voting of multiple LLMs. <br><br>
 LangChain is used to abstract model calling, enabling seamless integration of models from many providers such as OpenAI, Anthropic, and more.
 
