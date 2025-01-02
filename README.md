@@ -12,9 +12,10 @@ Python 3.12.1 <br>
 A python virtual environment is recommended to ensure no conflicting python packages used. https://docs.python.org/3/library/venv.html
 <br>
 1. ```pip install -r requirements.txt```
-2. ```python main.py```
-3. Enter student's reflection
-4. Observe output of LLMs, whether the reflection contains doubt or not.
+2. Go to ```main.py``` and populate the models and their API Keys.
+3. ```python main.py```
+4. Enter student's reflection
+5. Observe output of LLMs, whether the reflection contains doubt or not.
 
 # 🔧 Prompt Configuration
 ![prompt2](https://github.com/user-attachments/assets/4763f3f0-73ce-4d38-80d2-7379840e027a)
